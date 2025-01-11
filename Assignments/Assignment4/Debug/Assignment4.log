@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment4\Main.cpp(95,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment4\Main.cpp(107,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment4\Main.cpp(119,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment4\Main.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+  Assignment4.vcxproj -> C:\Users\nix13\source\repos\DataStructure\Assignments\Debug\Assignment4.exe

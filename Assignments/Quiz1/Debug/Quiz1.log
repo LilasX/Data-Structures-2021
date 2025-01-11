@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\nix13\source\repos\DataStructure\Assignments\Quiz1\Main.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Quiz1.vcxproj -> C:\Users\nix13\source\repos\DataStructure\Assignments\Debug\Quiz1.exe

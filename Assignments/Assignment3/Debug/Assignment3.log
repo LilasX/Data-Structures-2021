@@ -1,0 +1,83 @@
+﻿  Main.cpp
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(148,127): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(152,127): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(156,168): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(164,127): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(168,127): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(172,207): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(423,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(423,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(423,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(423,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(424,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(424,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(424,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(424,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(425,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(425,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(425,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(425,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(426,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(426,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(426,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(426,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(432,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(432,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(432,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(432,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(433,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(433,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(433,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(433,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(434,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(434,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(434,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(434,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(435,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(435,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(435,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(435,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(437,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(443,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(443,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(443,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(443,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(444,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(444,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(444,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(444,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(445,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(445,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(445,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(445,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(446,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(446,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(446,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(446,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(453,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(453,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(453,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(453,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(454,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(454,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(454,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(454,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(455,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(455,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(455,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(455,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(456,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Coordinates'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(456,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(456,9): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(456,9): message : the missing variadic argument 2 is required by format string '%d'
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(124): warning C4715: 'Trapezoid::getHeightT': not all control paths return a value
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(140): warning C4715: 'Trapezoid::getAreaT': not all control paths return a value
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(200): warning C4715: 'Parallelogram::getHeightP': not all control paths return a value
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(226): warning C4715: 'Parallelogram::getPerimeterP': not all control paths return a value
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(212): warning C4715: 'Parallelogram::getAreaP': not all control paths return a value
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(179): warning C4715: 'Trapezoid::getPerimeterT': not all control paths return a value
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(293): warning C4715: 'Rectangle::getPerimeterR': not all control paths return a value
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(281): warning C4715: 'Rectangle::getAreaR': not all control paths return a value
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(355): warning C4715: 'Square::getPerimeterS': not all control paths return a value
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment3\Main.cpp(343): warning C4715: 'Square::getAreaS': not all control paths return a value
+  Assignment3.vcxproj -> C:\Users\nix13\source\repos\DataStructure\Assignments\Debug\Assignment3.exe

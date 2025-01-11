@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\nix13\source\repos\DataStructure\Assignments\Assignment5\Main.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment5.vcxproj -> C:\Users\nix13\source\repos\DataStructure\Assignments\Debug\Assignment5.exe
